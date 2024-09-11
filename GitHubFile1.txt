@@ -1,1 +1,3 @@
-This file is created on GitHub
+This file is created on GitHub 
+Adding content from local on Git CLI
+Adding more content to the fil;e - Line3
