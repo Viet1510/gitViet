@@ -1,0 +1,6 @@
+learn stashing
+
+
+
+work completed on s.txt after pull back from stash list
+
