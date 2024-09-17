@@ -24,3 +24,6 @@ TestResults.xml
 *.pptx
 # all xlsx
 *.xlsx
+
+# all txt
+*.txt

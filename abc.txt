@@ -1,3 +1,0 @@
-learning Amend
-
-command in git
